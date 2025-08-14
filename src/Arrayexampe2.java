@@ -1,0 +1,2 @@
+public class Arrayexampe2 {
+}
