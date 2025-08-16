@@ -12,5 +12,4 @@ public class Array {
         // print array element at index 0
         System.out.println("After change myArray[0]: " + myArray[0]);
     }
-
 }
